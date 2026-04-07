@@ -53,7 +53,6 @@ Infra          RPC nodes · IPFS · Arweave · Vercel · Railway
 
 <img width="100%" height="100%" alt="Koala Koin Toss" src="https://github.com/user-attachments/assets/605c50b8-ba09-492a-8bf7-01aeccba0fca" />
 
-
 A provably fair on-chain gambling platform on Abstract EVM L2, featuring coinflip and lootbox mechanics with transparent randomness and instant payouts.
 
 **How it works**
@@ -77,7 +76,7 @@ Frontend    Next.js · ethers.js · wagmi
 #### 🔷 Monstro Finance — Gamified DeFi Platform
 > Base · [monstro.fun](https://monstro.fun/)
 
-<img width="100%" height="100%" alt="Monstro Finance" src="https://github.com/user-attachments/assets/605c50b8-ba09-492a-8bf7-01aeccba0fca" />
+<img width="100%" height="100%" alt="Monstro Finance" src="https://github.com/user-attachments/assets/bb695719-9c51-4f91-af99-90c4516a843c" />
 
 A gamified DeFi ecosystem on Base featuring tokenized characters, staking pools, and referral mechanics for enhanced yield generation in EVM environments.
 
@@ -103,7 +102,7 @@ Frontend    Next.js · ethers.js · wagmi
 #### 🔷 Ape Store — Fair Launch Token Pad
 > Base · [ape.store](https://ape.store/)
 
-![Ape Store](assets/ape-store.png)
+<img width="100%" height="100%" alt="Ape Store" src="https://github.com/user-attachments/assets/c0aa9cb5-ca31-4b43-9d2a-ac0e4669aa61" />
 
 A user-friendly token launchpad on Base enabling instant token creation and trading with bonding curves, built around anti-rug and fair launch mechanics.
 
@@ -128,7 +127,7 @@ Frontend    Next.js · wagmi · viem
 #### 🔷 Critters Quest — NFT Staking & Gaming dApp
 > Solana · [critters.quest](https://critters.quest/)
 
-![Critters Quest](assets/critters-quest.png)
+<img width="100%" height="100%" alt="Critters Quest" src="https://github.com/user-attachments/assets/4fb35334-c3f0-4c77-8420-1c3a2b606ca5" />
 
 A blockchain NFT game on Solana where collectibles evolve through staking, trading, and gameplay — fostering value growth via on-chain mechanics.
 
@@ -153,7 +152,7 @@ Frontend    Next.js · @solana/web3.js
 #### 🔷 SolCrash — Crash Game on Solana
 > Solana · [solcrash.io](https://solcrash.io/)
 
-![SolCrash](assets/solcrash.png)
+<img width="100%" height="100%" alt="SolCrash" src="https://github.com/user-attachments/assets/ecdd764f-f76f-4dc9-bd02-2869189b8ad9" />
 
 A provably fair crash game on Solana — a fork of the original Bustabit concept brought to the Solana ecosystem with on-chain settlement and low-latency gameplay.
 
@@ -178,7 +177,7 @@ Frontend    Next.js · @solana/web3.js · real-time WebSocket feeds
 #### 🔷 Solana Shuffle — Multi-Game Casino Platform
 > Solana · [solanashuffle.com](https://www.solanashuffle.com/)
 
-![Solana Shuffle](assets/solana-shuffle.png)
+<img width="100%" height="100%" alt="Solana Shuffle" src="https://github.com/user-attachments/assets/86282ba5-3da3-41f8-a51e-858b0cf74248" />
 
 A full-featured on-chain casino on Solana offering a suite of provably fair games built for speed, low fees, and seamless wallet UX.
 
@@ -202,7 +201,7 @@ Backend     Go
 #### 🔷 Rafflor — NFT Raffle Platform
 > Aptos · [rafflor.aptosmonkeys.club](https://rafflor.aptosmonkeys.club/)
 
-![Rafflor](assets/rafflor.png)
+<img width="100%" height="100%" alt="Rafflor" src="https://github.com/user-attachments/assets/c94da5cf-ca5a-4661-af78-32017c9c1538" />
 
 An NFT raffle protocol on Aptos where users enter draws for high-value NFTs, with transparent ticket mechanics and on-chain winner selection.
 
@@ -227,7 +226,7 @@ Frontend    TypeScript · Aptos SDK
 #### 🔷 Plutonians — VR Space RPG & MMO
 > Solana · [plutonians.tech](https://plutonians.tech/)
 
-![Plutonians](assets/plutonians.png)
+<img width="100%" height="100%" alt="Rafflor" src="https://github.com/user-attachments/assets/966ec87b-9273-4fa8-8d11-41ac6518a5de" />
 
 A Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in a fully on-chain economy.
 
