@@ -51,7 +51,8 @@ Infra          RPC nodes · IPFS · Arweave · Vercel · Railway
 #### 🔷 Koala Koin Toss — Coinflip & Lootbox Platform
 > Abstract EVM L2 · [koalafun.xyz](https://koalafun.xyz/)
 
-![Koala Koin Toss](assets/koala-koin-toss.png)
+<img width="1884" height="902" alt="Koala Koin Toss" src="https://github.com/user-attachments/assets/605c50b8-ba09-492a-8bf7-01aeccba0fca" />
+
 
 A provably fair on-chain gambling platform on Abstract EVM L2, featuring coinflip and lootbox mechanics with transparent randomness and instant payouts.
 
